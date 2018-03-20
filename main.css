@@ -1,0 +1,87 @@
+img {
+  width: 40em;
+  height: 30em;
+}
+
+header {
+  height: 20%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 2em;
+  padding-right: 2em;
+  background-color: grey;
+}
+
+main {
+  height: 60%;
+  padding-left: 2em;
+  padding-right: 2em;
+}
+
+footer {
+  height: 20%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-end;
+  padding-left: 2em;
+  background-color: grey;
+}
+
+a {
+  text-decoration: none;
+  color: blue;
+  font-size: 22px;
+  padding: 1em;
+}
+
+.content {
+  font-size: 20px;
+}
+
+h3 {
+  font-size: 22px;
+  text-decoration: underline;
+}
+
+.AboutMe {
+  display: flex;
+  align-items: center;
+}
+
+.AboutMe2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-left: 2em;
+}
+
+.learn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.twoOne {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.twoThree {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.twoSix {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.goals {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
